@@ -1,0 +1,1 @@
+The included files are set up to run Fluent Bit from tasks created on Console with the FireLens configuration toggle selected. More information on creating task definitions can be found on the knowledge transfer quip document: https://quip-amazon.com/SshYAHSXWbEH/Firelens-on-ECS-Windows-Knowledge-Transfer.
